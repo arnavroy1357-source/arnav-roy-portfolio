@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arnav-roy-portfolio.vercel.app/sitemap.xml
